@@ -1,6 +1,6 @@
 ## Welcome to the Ween Codes Repositories 🌲
 
-🙋‍♀ Hey! How are you doing? We are a software house, with more than 10 years on the road. We develop plugins, themes and custom scripts for **WordPress** CMS. Welcome and enjoy the open source scripts we make available here. [Read more](https://ween.codes).
+🙋‍♀ Hey! How are you doing? We are a software house, with more than 10 years on the road. We develop plugins, themes and custom scripts for **WordPress** CMS. Welcome and enjoy the open source scripts we make available here. <a href="https://ween.codes" title="WordPress Software House" target="_blank">Read more</a>.
 
 ---
 <!--
