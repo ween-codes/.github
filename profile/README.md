@@ -1,6 +1,6 @@
 ## Welcome to the Ween Codes GitHub :octocat:
 
-🙋‍♀️ Hi! How are you? We are a software house, with more than 10 years of road. We develop custom plugins, themes and scripts for **WordPress**.
+🙋‍♀ Hey! How are you doing? We are a software house, with more than 10 years on the road. We develop plugins, themes and custom scripts for **WordPress**. Welcome and enjoy the open source scripts we make available here.
 <!--
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
